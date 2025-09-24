@@ -1,0 +1,46 @@
+24.9.
+
+MINITALK
+
+		ALL ABOUT SERVER
+
+				WHAT IS A SERVER?
+
+						Server is a special type of a computer that provides information to other computers called "clients" on a computer network.
+								- Computer network = a group of communicating computers known as hosts which communicate data to other hosts
+
+				WHAT SERVERS ARE USED FOR?
+
+						Servers are used to serve the clients. They provide services for clients like: store and manage data, perform computations, share computer system
+			   			resource components etc..
+								- Computation: is any type of arithmetic or non-arithmetic calculation that is well defined
+										- Non-arithmetic calculation: deliberate mathematical process that transforms a plurality of inputs into a singular or plurality of
+										outputs / Laskenta on harkittu matemaattinen prosessi, joka muuntaa useita syötteitä yhdeksi tai useammaksi tuotokseksi.
+								- Computer system resource components:
+										- Hardware: Physical parts of a computer: CPU, RAM, motherboard etc..
+										- Software: Computer programs that instruct the execution of a computer
+
+				WHAT IS A SERVER PID?
+
+						PID = Process ID, it is a unique number for every process. It is assigned automatically by the system's kernel.
+
+								WHAT PID IS USED FOR?
+
+										- Process Management
+										- Monitoring
+										- Troubleshooting
+										- Process termination
+										- Inter-process communication
+
+								HOW TO FIND PID
+
+										Using ps command. Can differ with os. For example in linux: ps aux | grep <program_name>
+
+		TO DO
+			- Learn about:
+					- Servers
+							- What is a server // DONE
+							- What it is used for // DONE
+							- What is server PID? Must be printed when launched // DONE
+							- How to create a server
+							- How to use a server
